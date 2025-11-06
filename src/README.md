@@ -28,4 +28,4 @@ async function main() {
 main()
 ```
 
-Note: Results can be a bit consistent, and it works better in browser than nodejs.
+Note: Results can be a bit inconsistent, and it works better in browser than nodejs.
